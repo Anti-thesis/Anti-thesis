@@ -1,4 +1,4 @@
-Professional Account for Antithesls.
+Professional Account for Anti-thesis.
 - Biotechnology Certification
 - Languages known:
   - Python 11 years
